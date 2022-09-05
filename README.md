@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Klejdi Sevdari and I am an AI student at Bocconi. 📚
+
+- 🔭 I’m currently working on Neural Network Explainability. 
+- 📫 You can reach me at: klejdi.sevdari@studbocconi.it.
+
 <!--
 **sevdari/sevdari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
