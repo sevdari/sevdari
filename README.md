@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Klejdi Sevdari and I am an AI student at Bocconi. 📚
+My name is Klejdi Sevdari and I am a CS student at ETH. 📚
 
-- 🔭 I’m currently working on Neural Network Explainability. 
-- 📫 You can reach me at: klejdi.sevdari@studbocconi.it.
+- 📫 You can reach me at: ksevdari@ethz.ch.
 
 For the moment, most of my repos are private. I am planning to make them public soon. 
 <!--
